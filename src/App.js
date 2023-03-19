@@ -16,7 +16,7 @@ function App() {
         <Button>Something else</Button>
       </div>
       <div>
-        <Button>1 2 3</Button>
+        <Button>123</Button>
       </div>
     </div>
   );
